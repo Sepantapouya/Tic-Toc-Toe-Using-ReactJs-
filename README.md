@@ -1,5 +1,5 @@
 # Tic-Toc-Toe(Using-ReactJs)
-One Paragraph of project description goes here
+
 
 ## Screenshot
 ![Recordit pic](http://s5.picofile.com/file/8362714284/Screenshot_32_.png)
@@ -13,12 +13,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 Just open your terminal and run this code in your Folder(be sure to have nodeJs installed on your system)
 ```
-npm start
+$ npm start
 ```
 ## Running 
 
 ```
-npm start
+$ npm start
 ```
 
 
