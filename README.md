@@ -44,5 +44,5 @@ Idea has gotten from [reactJs Website](https://reactjs.org/tutorial/tutorial.htm
 ## Finally
 
 * share it with others
-* if you like it please star for it
+* if you like , please star for it
 
