@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Just open your terminal and run this code # in this folder #(be sure to have nodeJs installed on your system)
+Just open your terminal and run this code ** in this folder ** (be sure to have nodeJs installed on your system)
 
 Don't worry if you get warnings(WARN)
 ```
