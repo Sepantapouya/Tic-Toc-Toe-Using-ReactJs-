@@ -17,7 +17,7 @@ $ npm install
 ```
 ## Running 
 
-after finifhing your instalation , run this code
+after finishing your instalation , run this code
 
 ```
 $ npm start
