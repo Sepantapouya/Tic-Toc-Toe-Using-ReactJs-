@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Just open your terminal and run this code in your Folder(be sure to have nodeJs installed on your system
+Just open your terminal and run this code in your Folder(be sure to have nodeJs installed on your system)
 ```
 npm start
 ```
