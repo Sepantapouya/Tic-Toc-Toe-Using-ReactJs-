@@ -5,7 +5,9 @@
 ![Recordit pic](http://s5.picofile.com/file/8362714284/Screenshot_32_.png)
 
 ## Play Live
-you can run my live version of tic tac toe via this link
+you can run my live version of tic tac toe via this link:
+
+
 [Play Online](https://x2kh0.codesandbox.io/)
 
 ## Use Local
