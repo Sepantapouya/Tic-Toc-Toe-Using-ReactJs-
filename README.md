@@ -7,7 +7,6 @@
 ## Play Live
 you can run my live version of tic tac toe via this link:
 
-
 [Play Online](https://x2kh0.codesandbox.io/)
 
 ## Use Local
